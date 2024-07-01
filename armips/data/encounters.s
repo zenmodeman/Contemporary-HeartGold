@@ -5,6 +5,8 @@
 
 .include "asm/include/species.inc"
 
+//Slot probabilities: 20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1
+
 // Each encounter data has been labeled with the area it gets used.
 // Some are labeled ???, these are most likely not used.
 
@@ -125,10 +127,10 @@ walklevels 2, 3, 2, 3, 3, 3, 2, 2, 4, 4, 4, 4
 // morning encounter slots
 pokemon SPECIES_PIDGEY
 pokemon SPECIES_SENTRET
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_SENTRET
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
+pokemon SPECIES_PLUSLE
+pokemon SPECIES_MINUN
+pokemon SPECIES_SHINX
+pokemon SPECIES_SHINX
 pokemon SPECIES_SENTRET
 pokemon SPECIES_SENTRET
 pokemon SPECIES_RATTATA
@@ -139,10 +141,10 @@ pokemon SPECIES_PIDGEY
 // day encounter slots
 pokemon SPECIES_PIDGEY
 pokemon SPECIES_SENTRET
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_SENTRET
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
+pokemon SPECIES_PLUSLE
+pokemon SPECIES_MINUN
+pokemon SPECIES_SHINX
+pokemon SPECIES_SHINX
 pokemon SPECIES_SENTRET
 pokemon SPECIES_SENTRET
 pokemon SPECIES_RATTATA
@@ -153,10 +155,10 @@ pokemon SPECIES_PIDGEY
 // night encounter slots
 pokemon SPECIES_HOOTHOOT
 pokemon SPECIES_HOOTHOOT
-pokemon SPECIES_HOOTHOOT
-pokemon SPECIES_HOOTHOOT
-pokemon SPECIES_HOOTHOOT
-pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_PLUSLE
+pokemon SPECIES_MINUN
+pokemon SPECIES_SHINX
+pokemon SPECIES_SHINX
 pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
