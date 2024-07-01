@@ -49933,7 +49933,7 @@ const ITEMDATA __data[] =
 
 [ITEM_SERIOUS_MINT - NUM_UNKNOWN_SLOTS_EXPLORER_KIT] =
 {
-    .price = 5000,
+    .price = 500,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
