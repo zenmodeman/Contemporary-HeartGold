@@ -3598,7 +3598,7 @@ levelup SPECIES_QUILAVA
 
 
 levelup SPECIES_TYPHLOSION
-    learnset MOVE_GYRO_BALL, 0
+    learnset MOVE_FIRE_BLAST, 0
     learnset MOVE_LEER, 1
     learnset MOVE_TACKLE, 1
     learnset MOVE_SMOKESCREEN, 4
@@ -3612,7 +3612,7 @@ levelup SPECIES_TYPHLOSION
     learnset MOVE_FLAME_CHARGE, 29
     learnset MOVE_DOUBLE_EDGE, 32
     learnset MOVE_LAVA_PLUME, 35
-    learnset MOVE_FIRE_BLAST, 38
+    learnset MOVE_GYRO_BALL, 38
     learnset MOVE_FLAMETHROWER, 41
     learnset MOVE_INFERNO, 44
     learnset MOVE_OVERHEAT, 47
@@ -3624,64 +3624,66 @@ levelup SPECIES_TYPHLOSION
 levelup SPECIES_TOTODILE
     learnset MOVE_SCRATCH, 1
     learnset MOVE_LEER, 1
-    learnset MOVE_WATER_GUN, 6
-    learnset MOVE_RAGE, 8
-    learnset MOVE_BITE, 13
-    learnset MOVE_SCARY_FACE, 15
+    learnset MOVE_RAGE, 5
+    learnset MOVE_WATER_GUN, 8
+    learnset MOVE_MUD_SLAP, 11
+    learnset MOVE_BITE, 14
+    learnset MOVE_SCARY_FACE, 17
     learnset MOVE_ICE_FANG, 20
-    learnset MOVE_FLAIL, 22
-    learnset MOVE_CRUNCH, 27
-    learnset MOVE_CHIP_AWAY, 29
-    learnset MOVE_SLASH, 34
-    learnset MOVE_SCREECH, 36
-    learnset MOVE_THRASH, 41
-    learnset MOVE_AQUA_TAIL, 43
-    learnset MOVE_SUPERPOWER, 48
-    learnset MOVE_HYDRO_PUMP, 50
+    learnset MOVE_SLASH, 23
+    learnset MOVE_CRUNCH, 26
+    learnset MOVE_FLAIL, 29
+    learnset MOVE_SCREECH, 32
+    learnset MOVE_AQUA_TAIL, 35
+    learnset MOVE_THRASH, 38
+    learnset MOVE_SUPERPOWER, 41
+    learnset MOVE_HYDRO_PUMP, 44
     terminatelearnset
 
 
 levelup SPECIES_CROCONAW
+    learnset MOVE_CHIP_AWAY, 0
     learnset MOVE_SCRATCH, 1
     learnset MOVE_LEER, 1
-    learnset MOVE_WATER_GUN, 1
-    learnset MOVE_WATER_GUN, 6
-    learnset MOVE_RAGE, 8
-    learnset MOVE_BITE, 13
-    learnset MOVE_SCARY_FACE, 15
-    learnset MOVE_ICE_FANG, 21
-    learnset MOVE_FLAIL, 24
+    learnset MOVE_RAGE, 5
+    learnset MOVE_WATER_GUN, 8
+    learnset MOVE_MUD_SLAP, 11
+    learnset MOVE_BITE, 14
+    learnset MOVE_SCARY_FACE, 17
+    learnset MOVE_MUD_SPORRT, 21
+    learnset MOVE_ICE_FANG, 24
+    learnset MOVE_SLASH, 27
     learnset MOVE_CRUNCH, 30
-    learnset MOVE_CHIP_AWAY, 33
-    learnset MOVE_SLASH, 39
-    learnset MOVE_SCREECH, 42
-    learnset MOVE_THRASH, 48
-    learnset MOVE_AQUA_TAIL, 51
-    learnset MOVE_SUPERPOWER, 57
-    learnset MOVE_HYDRO_PUMP, 60
+    learnset MOVE_FLAIL, 33
+    learnset MOVE_SCREECH, 36
+    learnset MOVE_AQUA_TAIL, 39
+    learnset MOVE_THRASH, 42
+    learnset MOVE_SUPERPOWER, 45
+    learnset MOVE_HYDRO_PUMP, 48
     terminatelearnset
 
 
 levelup SPECIES_FERALIGATR
-    learnset MOVE_AGILITY, 1
+    learnset MOVE_LIQUIDATION, 0
     learnset MOVE_SCRATCH, 1
     learnset MOVE_LEER, 1
-    learnset MOVE_WATER_GUN, 1
-    learnset MOVE_RAGE, 1
-    learnset MOVE_WATER_GUN, 6
-    learnset MOVE_RAGE, 8
-    learnset MOVE_BITE, 13
-    learnset MOVE_SCARY_FACE, 15
-    learnset MOVE_ICE_FANG, 21
-    learnset MOVE_FLAIL, 24
-    learnset MOVE_CRUNCH, 32
-    learnset MOVE_CHIP_AWAY, 37
-    learnset MOVE_SLASH, 45
-    learnset MOVE_SCREECH, 50
-    learnset MOVE_THRASH, 58
-    learnset MOVE_AQUA_TAIL, 63
-    learnset MOVE_SUPERPOWER, 71
-    learnset MOVE_HYDRO_PUMP, 76
+    learnset MOVE_RAGE, 5
+    learnset MOVE_WATER_GUN, 8
+    learnset MOVE_MUD_SLAP, 11
+    learnset MOVE_BITE, 14
+    learnset MOVE_SCARY_FACE, 17
+    learnset MOVE_MUD_SPORRT, 21
+    learnset MOVE_ICE_FANG, 24
+    learnset MOVE_SLASH, 27
+    learnset MOVE_CRUNCH, 30 
+    learnset MOVE_AGILITY, 34
+    learnset MOVE_FLAIL, 37
+    learnset MOVE_SCREECH, 40
+    learnset MOVE_AQUA_TAIL, 43
+    learnset MOVE_THRASH, 46
+    learnset MOVE_SUPERPOWER, 49
+    learnset MOVE_HYDRO_PUMP, 52
+    learnset MOVE_OUTRAGE, 58
     terminatelearnset
 
 
