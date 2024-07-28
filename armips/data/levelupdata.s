@@ -3632,8 +3632,8 @@ levelup SPECIES_TOTODILE
     learnset MOVE_ICE_FANG, 20
     learnset MOVE_SLASH, 23
     learnset MOVE_CRUNCH, 26
-    learnset MOVE_FLAIL, 29
-    learnset MOVE_SCREECH, 32
+    learnset MOVE_SCREECH, 29
+    learnset MOVE_FLAIL, 32
     learnset MOVE_AQUA_TAIL, 35
     learnset MOVE_THRASH, 38
     learnset MOVE_SUPERPOWER, 41
@@ -3654,8 +3654,8 @@ levelup SPECIES_CROCONAW
     learnset MOVE_ICE_FANG, 24
     learnset MOVE_SLASH, 27
     learnset MOVE_CRUNCH, 30
-    learnset MOVE_FLAIL, 33
-    learnset MOVE_SCREECH, 36
+    learnset MOVE_SCREECH, 33
+    learnset MOVE_FLAIL, 36
     learnset MOVE_AQUA_TAIL, 39
     learnset MOVE_THRASH, 42
     learnset MOVE_SUPERPOWER, 45
@@ -3677,8 +3677,8 @@ levelup SPECIES_FERALIGATR
     learnset MOVE_SLASH, 27
     learnset MOVE_CRUNCH, 30 
     learnset MOVE_AGILITY, 34
-    learnset MOVE_FLAIL, 37
-    learnset MOVE_SCREECH, 40
+    learnset MOVE_SCREECH, 37
+    learnset MOVE_FLAIL, 40
     learnset MOVE_AQUA_TAIL, 43
     learnset MOVE_THRASH, 46
     learnset MOVE_SUPERPOWER, 49
