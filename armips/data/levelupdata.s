@@ -3652,9 +3652,10 @@ levelup SPECIES_CROCONAW
     learnset MOVE_MUD_SLAP, 11
     learnset MOVE_BITE, 14
     learnset MOVE_SCARY_FACE, 17
-    learnset MOVE_MUD_SPORRT, 21
+    learnset MOVE_MUD_SPORT, 21
     learnset MOVE_ICE_FANG, 24
     learnset MOVE_SLASH, 27
+    learnset MOVE_BREAKING_SWIPE, 27
     learnset MOVE_CRUNCH, 30
     learnset MOVE_SCREECH, 33
     learnset MOVE_FLAIL, 36
@@ -3667,6 +3668,7 @@ levelup SPECIES_CROCONAW
 
 levelup SPECIES_FERALIGATR
     learnset MOVE_LIQUIDATION, 0
+    learnset MOVE_LOW_KICK, 1
     learnset MOVE_SCRATCH, 1
     learnset MOVE_LEER, 1
     learnset MOVE_RAGE, 5
@@ -3674,9 +3676,10 @@ levelup SPECIES_FERALIGATR
     learnset MOVE_MUD_SLAP, 11
     learnset MOVE_BITE, 14
     learnset MOVE_SCARY_FACE, 17
-    learnset MOVE_MUD_SPORRT, 21
+    learnset MOVE_MUD_SPORT, 21
     learnset MOVE_ICE_FANG, 24
     learnset MOVE_SLASH, 27
+    learnset MOVE_BREAKING_SWIPE, 27
     learnset MOVE_CRUNCH, 30 
     learnset MOVE_AGILITY, 34
     learnset MOVE_SCREECH, 37
