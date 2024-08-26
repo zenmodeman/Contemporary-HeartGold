@@ -303,6 +303,7 @@ levelup SPECIES_PIDGEY
     learnset MOVE_AGILITY, 32
     learnset MOVE_TAILWIND, 35
     learnset MOVE_HURRICANE, 38
+    learnset MOVE_WORK_UP, 41
     terminatelearnset
 
 
@@ -323,6 +324,7 @@ levelup SPECIES_PIDGEOTTO
     learnset MOVE_AGILITY, 36
     learnset MOVE_TAILWIND, 39
     learnset MOVE_HURRICANE, 42
+    learnset MOVE_WORK_UP, 45
     terminatelearnset
 
 
@@ -346,6 +348,7 @@ levelup SPECIES_PIDGEOT
     learnset MOVE_BRAVE_BIRD, 40
     learnset MOVE_TAILWIND, 43
     learnset MOVE_HURRICANE, 46
+    learnset MOVE_WORK_UP, 49
 
 
 levelup SPECIES_RATTATA
@@ -362,8 +365,7 @@ levelup SPECIES_RATTATA
     learnset MOVE_ASSURANCE, 25
     learnset MOVE_SUPER_FANG, 28
     learnset MOVE_DOUBLE_EDGE, 31
-    learnset MOVE_ME_FIRST, 34
-    learnset MOVE_ENDEAVOR, 37
+    learnset MOVE_ENDEAVOR, 34
     terminatelearnset
 
 
@@ -383,9 +385,9 @@ levelup SPECIES_RATICATE
     learnset MOVE_CRUNCH, 26
     learnset MOVE_ASSURANCE, 29
     learnset MOVE_SUPER_FANG, 32
-    learnset MOVE_DOUBLE_EDGE, 35
-    learnset MOVE_ME_FIRST, 37
-    learnset MOVE_ENDEAVOR, 40
+    learnset MOVE_STOMPING_TANTRUM, 35
+    learnset MOVE_DOUBLE_EDGE, 38
+    learnset MOVE_ENDEAVOR, 41
     terminatelearnset
 
 
@@ -7135,6 +7137,7 @@ levelup SPECIES_MANECTRIC
 
 
 levelup SPECIES_PLUSLE
+    learnset MOVE_ENTRAINMENT, 1
     learnset MOVE_SWITCHEROO, 1
     learnset MOVE_BESTOW, 1
     learnset MOVE_PLAY_NICE, 1
@@ -7156,9 +7159,9 @@ levelup SPECIES_PLUSLE
     learnset MOVE_EERIE_IMPULSE, 31
     learnset MOVE_ALLURING_VOICE, 34
     learnset MOVE_THUNDERBOLT, 37
-    learnset MOVE_ENTRAINMENT, 40
+    learnset MOVE_WISH, 40
     learnset MOVE_THUNDER, 43
-    learnset MOVE_WISH, 46
+    learnset MOVE_VOLT_SWITCH, 46
     learnset MOVE_BATON_PASS, 49
     learnset MOVE_AGILITY, 49
     learnset MOVE_LAST_RESORT, 52
@@ -7167,6 +7170,7 @@ levelup SPECIES_PLUSLE
 
 
 levelup SPECIES_MINUN
+    learnset MOVE_ENTRAINMENT, 1
     learnset MOVE_SWITCHEROO, 1
     learnset MOVE_BESTOW, 1
     learnset MOVE_PLAY_NICE, 1
@@ -7188,9 +7192,9 @@ levelup SPECIES_MINUN
     learnset MOVE_EERIE_IMPULSE, 31
     learnset MOVE_ALLURING_VOICE, 34
     learnset MOVE_THUNDERBOLT, 37
-    learnset MOVE_ENTRAINMENT, 40
+    learnset MOVE_WISH, 40
     learnset MOVE_THUNDER, 43
-    learnset MOVE_WISH, 46
+    learnset MOVE_VOLT_SWITCH, 46
     learnset MOVE_BATON_PASS, 49
     learnset MOVE_AGILITY, 49
     learnset MOVE_LAST_RESORT, 52
