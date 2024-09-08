@@ -1560,7 +1560,7 @@ levelup SPECIES_VICTREEBEL
     learnset MOVE_LEAF_BLADE, 35
     learnset MOVE_KNOCK_OFF, 39
     learnset MOVE_POISON_JAB, 43
-    learnset MOVE_LEAFSTORM, 47
+    learnset MOVE_LEAF_STORM, 47
     terminatelearnset
 
 

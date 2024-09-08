@@ -41,7 +41,7 @@ EIGHT_BADGES equ 6
 .halfword ITEM_FULL_RESTORE
 .halfword EIGHT_BADGES
 
-.halfword ITEM_ETHER
+.halfword ITEM_ESCAPE_ROPE
 .halfword ZERO_BADGES
 
 .halfword ITEM_MAX_ETHER
@@ -59,7 +59,7 @@ EIGHT_BADGES equ 6
 .halfword ITEM_MAX_REVIVE
 .halfword EIGHT_BADGES
 
-.halfword ITEM_FULL_HEAL
+.halfword ITEM_RARE_CANDY
 .halfword ZERO_BADGES
 
 .halfword ITEM_REPEL
@@ -71,7 +71,7 @@ EIGHT_BADGES equ 6
 .halfword ITEM_MAX_REPEL
 .halfword FIVE_BADGES
 
-.halfword ITEM_ULTRA_BALL
+.halfword ITEM_ANTIDOTE
 .halfword ZERO_BADGES
 
 /** Special Mart Index - This is not in byte order
