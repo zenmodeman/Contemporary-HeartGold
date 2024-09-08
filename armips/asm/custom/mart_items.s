@@ -26,7 +26,7 @@ EIGHT_BADGES equ 6
 .halfword ITEM_ULTRA_BALL
 .halfword THREE_BADGES
 
-.halfword ITEM_POMEG_BERRY
+.halfword ITEM_POTION
 .halfword ZERO_BADGES
 
 .halfword ITEM_SUPER_POTION
@@ -41,7 +41,7 @@ EIGHT_BADGES equ 6
 .halfword ITEM_FULL_RESTORE
 .halfword EIGHT_BADGES
 
-.halfword ITEM_ESCAPE_ROPE
+.halfword ITEM_POKE_BALL
 .halfword ZERO_BADGES
 
 .halfword ITEM_MAX_ETHER
@@ -109,11 +109,11 @@ const u16 *_0210FA3C[] = {
 };
 */
 
-/* const u16 _020FBA54[] = {ITEM_AIR_MAIL, ITEM_HEAL_BALL, 0xFFFF}; */
+/* const u16 _020FBA54[] = {ITEM_POMEG_BERRY, ITEM_HEAL_BALL, 0xFFFF}; */
 /* Cherrygrove City 2nd Clerk -> Violet City 2nd Clerk */
 .org 0x020FBA54
 .halfword ITEM_HEAL_BALL
-.halfword ITEM_NET_BALL
+.halfword ITEM_POMEG_BERRY
 .halfword 0xFFFF
 
 /* const u16 _020FBA5A[] = {ITEM_AIR_MAIL, ITEM_QUICK_BALL, 0xFFFF}; */
@@ -133,9 +133,9 @@ const u16 *_0210FA3C[] = {
 /* const u16 _020FBA78[] = {ITEM_TUNNEL_MAIL, ITEM_HEAL_BALL, ITEM_NET_BALL, 0xFFFF}; */
 /* Violet City -> Goldenrod Flower Shop */
 .org 0x020FBA78
-.halfword ITEM_POWER_HERB
-.halfword ITEM_MENTAL_HERB
-.halfword ITEM_WHITE_HERB
+.halfword ITEM_KELPSY_BERRY
+.halfword ITEM_HONDEW_BERRY
+.halfword ITEM_NET_BALL
 .halfword 0xFFFF
 
 /* const u16 _020FBA80[] = {ITEM_AIR_MAIL, ITEM_NET_BALL, ITEM_DUSK_BALL, 0xFFFF}; */
