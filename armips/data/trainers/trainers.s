@@ -627,12 +627,12 @@ trainerdata 20, "Falkner"
         // mon 0
         ivs 50
         abilityslot 0
-        level 9
-        pokemon SPECIES_PIDGEY
+        level 11
+        pokemon SPECIES_NATU
         item ITEM_NONE
-        move MOVE_TACKLE
-        move MOVE_SAND_ATTACK
-        move MOVE_NONE
+        move MOVE_PECK
+        move MOVE_CONFUSE_RAY
+        move MOVE_STORED_POWER
         move MOVE_NONE
         ballseal 0
 
@@ -640,11 +640,11 @@ trainerdata 20, "Falkner"
         ivs 50
         abilityslot 0
         level 13
-        pokemon SPECIES_PIDGEOTTO
+        pokemon SPECIES_MURKROW
         item ITEM_NONE
-        move MOVE_TACKLE
+        move MOVE_PECK
         move MOVE_ROOST
-        move MOVE_GUST
+        move MOVE_MUD_SLAP
         move MOVE_NONE
         ballseal 0
     endparty

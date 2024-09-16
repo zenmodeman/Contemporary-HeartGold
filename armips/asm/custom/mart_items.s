@@ -134,7 +134,7 @@ const u16 *_0210FA3C[] = {
 /* Violet City -> Goldenrod Flower Shop */
 .org 0x020FBA78
 .halfword ITEM_KELPSY_BERRY
-.halfword ITEM_HONDEW_BERRY
+.halfword ITEM_GRIP_CLAW
 .halfword ITEM_NET_BALL
 .halfword 0xFFFF
 
