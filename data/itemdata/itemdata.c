@@ -1248,7 +1248,7 @@ const ITEMDATA __data[] =
 
 [ITEM_BURN_HEAL] =
 {
-    .price = 250,
+    .price = 100,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
@@ -1313,7 +1313,7 @@ const ITEMDATA __data[] =
 
 [ITEM_ICE_HEAL] =
 {
-    .price = 250,
+    .price = 100,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
@@ -1378,7 +1378,7 @@ const ITEMDATA __data[] =
 
 [ITEM_AWAKENING] =
 {
-    .price = 250,
+    .price = 100,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
@@ -1443,7 +1443,7 @@ const ITEMDATA __data[] =
 
 [ITEM_PARALYZE_HEAL] =
 {
-    .price = 200,
+    .price = 100,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
@@ -1703,7 +1703,7 @@ const ITEMDATA __data[] =
 
 [ITEM_SUPER_POTION] =
 {
-    .price = 700,
+    .price = 600,
     .holdEffect = 0,
     .holdEffectParam = 50,
     .pluckEffect = 0,
@@ -1768,7 +1768,7 @@ const ITEMDATA __data[] =
 
 [ITEM_FULL_HEAL] =
 {
-    .price = 600,
+    .price = 200,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,

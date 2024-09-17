@@ -2103,10 +2103,10 @@ walklevels 5, 6, 5, 6, 6, 6, 5, 5, 5, 6, 5, 6
 // morning encounter slots
 pokemon SPECIES_CATERPIE
 pokemon SPECIES_METAPOD
-pokemon SPECIES_CATERPIE
-pokemon SPECIES_METAPOD
-pokemon SPECIES_CATERPIE
-pokemon SPECIES_CATERPIE
+pokemon SPECIES_SPOINK
+pokemon SPECIES_NUMEL
+pokemon SPECIES_BUDEW
+pokemon SPECIES_CARNIVINE
 pokemon SPECIES_PARAS
 pokemon SPECIES_PARAS
 pokemon SPECIES_ZUBAT

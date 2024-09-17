@@ -20,10 +20,10 @@ EIGHT_BADGES equ 6
 .halfword ITEM_SERIOUS_MINT
 .halfword ZERO_BADGES
 
-.halfword ITEM_GREAT_BALL
+.halfword ITEM_EXP_CANDY_S
 .halfword ONE_BADGE
 
-.halfword ITEM_ULTRA_BALL
+.halfword ITEM_GREAT_BALL
 .halfword THREE_BADGES
 
 .halfword ITEM_POTION
@@ -71,7 +71,7 @@ EIGHT_BADGES equ 6
 .halfword ITEM_MAX_REPEL
 .halfword FIVE_BADGES
 
-.halfword ITEM_ANTIDOTE
+.halfword ITEM_FULL_HEAL
 .halfword ZERO_BADGES
 
 /** Special Mart Index - This is not in byte order
