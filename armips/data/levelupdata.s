@@ -10362,24 +10362,26 @@ levelup SPECIES_TOXICROAK
 levelup SPECIES_CARNIVINE
     learnset MOVE_INGRAIN, 1   
     learnset MOVE_SWEET_SCENT, 1 
+    learnset MOVE_BITE, 1
     learnset MOVE_BIND, 1
     learnset MOVE_ABSORB, 3
     learnset MOVE_GROWTH, 6
     learnset MOVE_VINE_WHIP, 9
-    learnset MOVE_BITE, 12
+    learnset MOVE_FEINT_ATTACK, 12
     learnset MOVE_LEAF_TORNADO, 15
-    learnset MOVE_FEINT_ATTACK, 18
+    learnset MOVE_PAYBACK, 18
     learnset MOVE_STOCKPILE, 21
     learnset MOVE_SPIT_UP, 21
     learnset MOVE_SWALLOW, 21
-    learnset MOVE_PAYBACK, 24
+    learnset MOVE_KNOCK_OFF, 24
     learnset MOVE_WRING_OUT, 27
-    learnset MOVE_CRUNCH, 30
-    learnset MOVE_ACID_SPRAY, 33
+    learnset MOVE_ACID_SPRAY, 30
+    learnset MOVE_CRUNCH, 33
     learnset MOVE_GRASS_KNOT, 36
-    learnset MOVE_SEED_BOMB, 39
-    learnset MOVE_GIGA_DRAIN, 42
-    learnset MOVE_POWER_WHIP, 45
+    learnset MOVE_SEED_BOMB, 36
+    learnset MOVE_GIGA_DRAIN, 39
+    learnset MOVE_POWER_WHIP, 42
+    learnset MOVE_SYNTHESIS, 45
     learnset MOVE_LEECH_SEED, 48
     terminatelearnset
 

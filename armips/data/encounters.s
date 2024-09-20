@@ -1474,7 +1474,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 6, 6, 6, 6, 5, 5, 4, 4, 7, 6, 7, 6
+walklevels 7, 7, 7, 7, 6, 6, 5, 5, 8, 7, 8, 7
 
 // morning encounter slots
 pokemon SPECIES_GEODUDE
@@ -1786,7 +1786,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 6, 7, 6, 7, 6, 6, 6, 6, 8, 4, 8, 4
+walklevels 7, 8, 7, 8, 7, 7, 7, 7, 9, 5, 9, 5
 
 // morning encounter slots
 pokemon SPECIES_HOPPIP
@@ -1890,13 +1890,13 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 5, 6, 5, 6, 7, 7, 6, 6, 8, 8, 8, 8
+walklevels 6, 7, 6, 7, 8, 8, 7, 7, 9, 9, 9, 9
 
 // morning encounter slots
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_MAKUHITA
+pokemon SPECIES_CHINGLING
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_SLOWPOKE
@@ -1909,8 +1909,8 @@ pokemon SPECIES_SLOWPOKE
 // day encounter slots
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_MAKUHITA
+pokemon SPECIES_CHINGLING
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_SLOWPOKE
@@ -1923,8 +1923,8 @@ pokemon SPECIES_SLOWPOKE
 // night encounter slots
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_MAKUHITA
+pokemon SPECIES_CHINGLING
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_SLOWPOKE
@@ -2098,7 +2098,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 5, 6, 5, 6, 6, 6, 5, 5, 5, 6, 5, 6
+walklevels 7, 8, 7, 8, 8, 8, 7, 7, 7, 8, 7, 8
 
 // morning encounter slots
 pokemon SPECIES_CATERPIE

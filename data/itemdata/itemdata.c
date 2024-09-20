@@ -4693,7 +4693,7 @@ const ITEMDATA __data[] =
 
 [ITEM_RED_SHARD] =
 {
-    .price = 200,
+    .price = 8000,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
@@ -4758,7 +4758,7 @@ const ITEMDATA __data[] =
 
 [ITEM_BLUE_SHARD] =
 {
-    .price = 200,
+    .price = 8000,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
@@ -4823,7 +4823,7 @@ const ITEMDATA __data[] =
 
 [ITEM_YELLOW_SHARD] =
 {
-    .price = 200,
+    .price = 8000,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
@@ -4888,7 +4888,7 @@ const ITEMDATA __data[] =
 
 [ITEM_GREEN_SHARD] =
 {
-    .price = 200,
+    .price = 8000,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
@@ -36998,7 +36998,7 @@ const ITEMDATA __data[] =
 
 [ITEM_COMET_SHARD - NUM_UNKNOWN_SLOTS_EXPLORER_KIT] =
 {
-    .price = 200,
+    .price = 10000,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
