@@ -637,7 +637,7 @@ trainerdata 20, "Falkner"
         ballseal 0
 
         // mon 1
-        ivs 50
+        ivs 70
         abilityslot 0
         level 13
         pokemon SPECIES_MURKROW
@@ -663,26 +663,27 @@ trainerdata 21, "Bugsy"
 
     party 21
         // mon 0
-        ivs 80
+        ivs 120
         abilityslot 32
         level 17
         pokemon SPECIES_SCYTHER
         item ITEM_SITRUS_BERRY
-        move MOVE_QUICK_ATTACK
+        move MOVE_CUT
         move MOVE_LEER
         move MOVE_U_TURN
-        move MOVE_FOCUS_ENERGY
+        move MOVE_ROCK_SMASH
         ballseal 0
 
         // mon 1
         ivs 80
         abilityslot 0
         level 15
-        pokemon SPECIES_SPINARAK
+        pokemon SPECIES_BEEDRILL
         item ITEM_NONE
-        move MOVE_CROSS_POISON
-        move MOVE_LEECH_LIFE
-        move MOVE_NONE
+        move MOVE_FLASH
+        move MOVE_SECRET_POWER
+        move MOVE_U_TURN
+        move MOVE_POISON_STING
         ballseal 0
 
         // mon 2
@@ -692,7 +693,7 @@ trainerdata 21, "Bugsy"
         pokemon SPECIES_PINECO
         item ITEM_NONE
         move MOVE_ROCK_TOMB
-        move MOVE_POUNCE
+        move MOVE_RAPID_SPIN
         move MOVE_PAIN_SPLIT
         move MOVE_NONE
         ballseal 0
